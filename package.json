@@ -1,14 +1,14 @@
 {
   "name": "boilerplate",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "To do list Test",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
     "start": "node server.js"
   },
   "author": "Ulyyses Alvarez",
-  "license": "MIT",
+  "license": "",
   "dependencies": {
     "axios": "^0.9.1",
     "express": "^4.13.4",
